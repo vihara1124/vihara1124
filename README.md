@@ -6,7 +6,7 @@ Hi 👋, I'm Thilakshi Vihara Thilakarathne
 - 🌱 I’m currently learning Web Application Development with Spring Boot and ReactJS
 - 💞️ I’m looking to collaborate on open source/commercial projects
 - ⚙️ I'm interesting to working with JAVA, JS, Python
-- 📫 How to reach me: thilakshivihara1998@gmail.com
+- 📫 How to reach me  : thilakshivihara1998@gmail.com : https://www.linkedin.com/in/thilakshi-vihara624/
 
 <!---
 vihara1124/vihara1124 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
